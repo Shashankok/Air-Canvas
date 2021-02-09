@@ -10,7 +10,7 @@ We will be using the computer vision techniques of OpenCV to build this project.
 * [Numpy](https://numpy.org/) - Used for Matrices
 * [OpenCV](https://opencv.org/) - Used for Computer Vision
 
-###ScreenShots
+### ScreenShots
 
 <img src="camera.png" width="600" alt="Camera">
 
